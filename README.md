@@ -69,10 +69,10 @@ Deux interruptions par frame, générées par le matériel :
 |---|---|---|
 | `IN 1` | lecture | Pièce, start, contrôles joueur 1 |
 | `IN 2` | lecture | Contrôles joueur 2, options (DIP) |
-| `IN 3` | lecture | Résultat du registre à décalage |
-| `OUT 2` | écriture | Valeur de décalage du registre |
+| `IN 3` | lecture | Résultat du shift register |
+| `OUT 2` | écriture | Valeur de shift register |
 | `OUT 3` | écriture | Sons (1er groupe) |
-| `OUT 4` | écriture | Données du registre à décalage |
+| `OUT 4` | écriture | Données du shift register |
 | `OUT 5` | écriture | Sons (2e groupe) |
 | `OUT 6` | écriture | Watchdog |
 
