@@ -121,7 +121,7 @@ Ce projet s'appuie principalement sur le site **Emulator 101**, qui guide pas à
 
 ## Licence
 
-Code distribué sous licence **MIT** *(à adapter)*.
+Code distribué sous licence **MIT**.
 
 Space Invaders est une marque et une œuvre protégées appartenant à leurs ayants droit. Ce projet n'est ni affilié, ni approuvé par Taito, Midway ou Intel.
 
